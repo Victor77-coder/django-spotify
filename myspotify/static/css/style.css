@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    color: blue;
+    text-decoration: none;
+    padding: 14px 20px;
+}
+
+.navbar a:hover {
+    background-color: #495057;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1 {
+    color: #343a40;
+}
+
+.list-group-item {
+    background-color: #343a40;
+    color: green;
+    padding: 15px;
+}
+
+footer {
+    background-color: #343a40;
+    color: green;
+    padding: 15px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.song-description {
+    font-size: 1.1em;
+    margin-top: 15px;
+}
